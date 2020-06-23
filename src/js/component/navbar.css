@@ -1,0 +1,28 @@
+.header{
+   background-color: rgb(24, 23, 23);
+}
+.botones:hover{
+    background-color: rgb(34, 33, 33);
+}
+
+#logo{
+    background-color: black;
+    background-image: url(./logo_starwars.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 120px;
+    height: 120px;
+    object-fit: fill;
+    border: none;
+}
+
+.col{
+   border-width: 1px;
+    border-color:gray;
+    border-style: solid;
+    
+}
+
+.dropdown-menu div:hover .close{
+    display: block;
+  }

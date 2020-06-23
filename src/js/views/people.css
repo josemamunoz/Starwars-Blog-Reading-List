@@ -1,0 +1,11 @@
+.card-body {
+    background: rgb(39, 39, 39);
+}
+
+li {
+    list-style: none;
+}
+
+.people{
+    border: none;
+}
